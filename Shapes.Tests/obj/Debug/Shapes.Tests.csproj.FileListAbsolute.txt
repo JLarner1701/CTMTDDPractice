@@ -1,0 +1,9 @@
+C:\Dev\CTMTDDPractice\Shapes.Tests\bin\Debug\Shapes.Tests.dll
+C:\Dev\CTMTDDPractice\Shapes.Tests\bin\Debug\Shapes.Tests.pdb
+C:\Dev\CTMTDDPractice\Shapes.Tests\bin\Debug\nunit.framework.dll
+C:\Dev\CTMTDDPractice\Shapes.Tests\bin\Debug\nunit.framework.xml
+C:\Dev\CTMTDDPractice\Shapes.Tests\obj\Debug\Shapes.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\CTMTDDPractice\Shapes.Tests\obj\Debug\Shapes.Tests.dll
+C:\Dev\CTMTDDPractice\Shapes.Tests\obj\Debug\Shapes.Tests.pdb
+C:\Dev\CTMTDDPractice\Shapes.Tests\bin\Debug\CTMTDDPractice.dll
+C:\Dev\CTMTDDPractice\Shapes.Tests\bin\Debug\CTMTDDPractice.pdb

@@ -1,0 +1,4 @@
+C:\Dev\CTMTDDPractice\CTMTDDPractice\bin\Debug\CTMTDDPractice.dll
+C:\Dev\CTMTDDPractice\CTMTDDPractice\bin\Debug\CTMTDDPractice.pdb
+C:\Dev\CTMTDDPractice\CTMTDDPractice\obj\Debug\CTMTDDPractice.dll
+C:\Dev\CTMTDDPractice\CTMTDDPractice\obj\Debug\CTMTDDPractice.pdb
