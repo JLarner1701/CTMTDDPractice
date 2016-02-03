@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using CTMTDDPractice.Shapes;
+using NUnit.Framework;
 
 namespace Shapes.Tests
 {

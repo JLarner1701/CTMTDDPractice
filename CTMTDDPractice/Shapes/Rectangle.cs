@@ -1,4 +1,4 @@
-﻿namespace Shapes.Tests
+﻿namespace CTMTDDPractice.Shapes
 {
     public class Rectangle
     {
