@@ -1,0 +1,7 @@
+C:\Dev\CTMTDDPractice\ThreesAndFives\bin\Debug\ThreesAndFives.dll
+C:\Dev\CTMTDDPractice\ThreesAndFives\bin\Debug\ThreesAndFives.pdb
+C:\Dev\CTMTDDPractice\ThreesAndFives\bin\Debug\nunit.framework.dll
+C:\Dev\CTMTDDPractice\ThreesAndFives\bin\Debug\nunit.framework.xml
+C:\Dev\CTMTDDPractice\ThreesAndFives\obj\Debug\ThreesAndFives.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\CTMTDDPractice\ThreesAndFives\obj\Debug\ThreesAndFives.dll
+C:\Dev\CTMTDDPractice\ThreesAndFives\obj\Debug\ThreesAndFives.pdb
